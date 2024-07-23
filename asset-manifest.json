@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/jeonassociate/static/css/main.aef6edcc.css",
-    "main.js": "/jeonassociate/static/js/main.f3e7fa40.js",
+    "main.css": "/jeonassociate/static/css/main.2ccee9dc.css",
+    "main.js": "/jeonassociate/static/js/main.89b9df0a.js",
     "static/js/453.671e4bbf.chunk.js": "/jeonassociate/static/js/453.671e4bbf.chunk.js",
-    "static/media/combine_for.png": "/jeonassociate/static/media/combine_for.fcde845c3e5307a6a256.png",
     "static/media/pexels_tima_miroshnichenko_6693655.jpg": "/jeonassociate/static/media/pexels_tima_miroshnichenko_6693655.d83e1ab3175a8a716209.jpg",
     "static/media/pexels_fauxels_3183156.jpg": "/jeonassociate/static/media/pexels_fauxels_3183156.f908595cb2c4f9e4ed8b.jpg",
     "static/media/proto_image.jpg": "/jeonassociate/static/media/proto_image.421c54bc22d4c51bda40.jpg",
@@ -11,12 +10,12 @@
     "static/media/pexels_hillaryfox_1595390.jpg": "/jeonassociate/static/media/pexels_hillaryfox_1595390.dd4d8919c0911d203e67.jpg",
     "static/media/JeonAssociateLogo.png": "/jeonassociate/static/media/JeonAssociateLogo.b2c6b1eba9cff07f0eab.png",
     "index.html": "/jeonassociate/index.html",
-    "main.aef6edcc.css.map": "/jeonassociate/static/css/main.aef6edcc.css.map",
-    "main.f3e7fa40.js.map": "/jeonassociate/static/js/main.f3e7fa40.js.map",
+    "main.2ccee9dc.css.map": "/jeonassociate/static/css/main.2ccee9dc.css.map",
+    "main.89b9df0a.js.map": "/jeonassociate/static/js/main.89b9df0a.js.map",
     "453.671e4bbf.chunk.js.map": "/jeonassociate/static/js/453.671e4bbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aef6edcc.css",
-    "static/js/main.f3e7fa40.js"
+    "static/css/main.2ccee9dc.css",
+    "static/js/main.89b9df0a.js"
   ]
 }
