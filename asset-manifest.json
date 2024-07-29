@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jeonassociate/static/css/main.eb00f38b.css",
-    "main.js": "/jeonassociate/static/js/main.63e88be5.js",
+    "main.css": "/jeonassociate/static/css/main.1dbe90c9.css",
+    "main.js": "/jeonassociate/static/js/main.210b626a.js",
     "static/js/453.671e4bbf.chunk.js": "/jeonassociate/static/js/453.671e4bbf.chunk.js",
     "static/media/pexels_tima_miroshnichenko_6693655.jpg": "/jeonassociate/static/media/pexels_tima_miroshnichenko_6693655.d83e1ab3175a8a716209.jpg",
     "static/media/pexels_fauxels_3183156.jpg": "/jeonassociate/static/media/pexels_fauxels_3183156.f908595cb2c4f9e4ed8b.jpg",
@@ -17,12 +17,12 @@
     "static/media/PaymentIcon.png": "/jeonassociate/static/media/PaymentIcon.024c0bc780a9c281413f.png",
     "static/media/JeonAssociateLogo.png": "/jeonassociate/static/media/JeonAssociateLogo.b2c6b1eba9cff07f0eab.png",
     "index.html": "/jeonassociate/index.html",
-    "main.eb00f38b.css.map": "/jeonassociate/static/css/main.eb00f38b.css.map",
-    "main.63e88be5.js.map": "/jeonassociate/static/js/main.63e88be5.js.map",
+    "main.1dbe90c9.css.map": "/jeonassociate/static/css/main.1dbe90c9.css.map",
+    "main.210b626a.js.map": "/jeonassociate/static/js/main.210b626a.js.map",
     "453.671e4bbf.chunk.js.map": "/jeonassociate/static/js/453.671e4bbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb00f38b.css",
-    "static/js/main.63e88be5.js"
+    "static/css/main.1dbe90c9.css",
+    "static/js/main.210b626a.js"
   ]
 }
