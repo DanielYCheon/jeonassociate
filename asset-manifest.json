@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jeonassociate/static/css/main.462a7b7b.css",
-    "main.js": "/jeonassociate/static/js/main.b17b7918.js",
+    "main.css": "/jeonassociate/static/css/main.c41313e2.css",
+    "main.js": "/jeonassociate/static/js/main.e66cee30.js",
     "static/js/453.671e4bbf.chunk.js": "/jeonassociate/static/js/453.671e4bbf.chunk.js",
     "static/media/pexels_tima_miroshnichenko_6693655.jpg": "/jeonassociate/static/media/pexels_tima_miroshnichenko_6693655.d83e1ab3175a8a716209.jpg",
     "static/media/pexels_fauxels_3183156.jpg": "/jeonassociate/static/media/pexels_fauxels_3183156.f908595cb2c4f9e4ed8b.jpg",
@@ -15,14 +15,17 @@
     "static/media/UploadDocumentsIcon.png": "/jeonassociate/static/media/UploadDocumentsIcon.78daf3ae89d20d77e3c2.png",
     "static/media/FinalWorkProductIcon.png": "/jeonassociate/static/media/FinalWorkProductIcon.31c6d0511cb5357df302.png",
     "static/media/PaymentIcon.png": "/jeonassociate/static/media/PaymentIcon.024c0bc780a9c281413f.png",
+    "static/media/icons8_health_500.png": "/jeonassociate/static/media/icons8_health_500.327aff8587141767165d.png",
+    "static/media/icons8_calculator_500.png": "/jeonassociate/static/media/icons8_calculator_500.1ad8f42927677d3079aa.png",
+    "static/media/icons8_real_estate_500.png": "/jeonassociate/static/media/icons8_real_estate_500.45e92565295cd03ecfc1.png",
     "static/media/JeonAssociateLogo.png": "/jeonassociate/static/media/JeonAssociateLogo.b2c6b1eba9cff07f0eab.png",
     "index.html": "/jeonassociate/index.html",
-    "main.462a7b7b.css.map": "/jeonassociate/static/css/main.462a7b7b.css.map",
-    "main.b17b7918.js.map": "/jeonassociate/static/js/main.b17b7918.js.map",
+    "main.c41313e2.css.map": "/jeonassociate/static/css/main.c41313e2.css.map",
+    "main.e66cee30.js.map": "/jeonassociate/static/js/main.e66cee30.js.map",
     "453.671e4bbf.chunk.js.map": "/jeonassociate/static/js/453.671e4bbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.462a7b7b.css",
-    "static/js/main.b17b7918.js"
+    "static/css/main.c41313e2.css",
+    "static/js/main.e66cee30.js"
   ]
 }
