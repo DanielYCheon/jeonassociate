@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/jeonassociate/static/css/main.841bc104.css",
-    "main.js": "/jeonassociate/static/js/main.b9d950e2.js",
+    "main.css": "/jeonassociate/static/css/main.dea314d1.css",
+    "main.js": "/jeonassociate/static/js/main.e252fde4.js",
     "static/js/453.671e4bbf.chunk.js": "/jeonassociate/static/js/453.671e4bbf.chunk.js",
     "static/media/pexels_tima_miroshnichenko_6693655.jpg": "/jeonassociate/static/media/pexels_tima_miroshnichenko_6693655.d83e1ab3175a8a716209.jpg",
     "static/media/pexels_fauxels_3183156.jpg": "/jeonassociate/static/media/pexels_fauxels_3183156.f908595cb2c4f9e4ed8b.jpg",
+    "static/media/rocket.png": "/jeonassociate/static/media/rocket.79b71139d2d4d7ea0551.png",
     "static/media/proto_image.jpg": "/jeonassociate/static/media/proto_image.421c54bc22d4c51bda40.jpg",
     "static/media/CareersImage.jpg": "/jeonassociate/static/media/CareersImage.f19041f00c1c95c771f1.jpg",
     "static/media/pexels_hillaryfox_1595390.jpg": "/jeonassociate/static/media/pexels_hillaryfox_1595390.dd4d8919c0911d203e67.jpg",
@@ -20,12 +21,12 @@
     "static/media/icons8_real_estate_500.png": "/jeonassociate/static/media/icons8_real_estate_500.45e92565295cd03ecfc1.png",
     "static/media/JeonAssociateLogo.png": "/jeonassociate/static/media/JeonAssociateLogo.b2c6b1eba9cff07f0eab.png",
     "index.html": "/jeonassociate/index.html",
-    "main.841bc104.css.map": "/jeonassociate/static/css/main.841bc104.css.map",
-    "main.b9d950e2.js.map": "/jeonassociate/static/js/main.b9d950e2.js.map",
+    "main.dea314d1.css.map": "/jeonassociate/static/css/main.dea314d1.css.map",
+    "main.e252fde4.js.map": "/jeonassociate/static/js/main.e252fde4.js.map",
     "453.671e4bbf.chunk.js.map": "/jeonassociate/static/js/453.671e4bbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.841bc104.css",
-    "static/js/main.b9d950e2.js"
+    "static/css/main.dea314d1.css",
+    "static/js/main.e252fde4.js"
   ]
 }
