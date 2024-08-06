@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.css": "/jeonassociate/static/css/main.e98b18b7.css",
-    "main.js": "/jeonassociate/static/js/main.bdbec474.js",
+    "main.css": "/jeonassociate/static/css/main.e5c694be.css",
+    "main.js": "/jeonassociate/static/js/main.8bb8738c.js",
     "static/js/453.671e4bbf.chunk.js": "/jeonassociate/static/js/453.671e4bbf.chunk.js",
+    "static/media/realestate.jpg": "/jeonassociate/static/media/realestate.c3ab41509b4e6327a97a.jpg",
+    "static/media/hospital.jpg": "/jeonassociate/static/media/hospital.aade1de5fbaaf63fd1f1.jpg",
     "static/media/pexels_tima_miroshnichenko_6693655.jpg": "/jeonassociate/static/media/pexels_tima_miroshnichenko_6693655.d83e1ab3175a8a716209.jpg",
     "static/media/pexels_fauxels_3183156.jpg": "/jeonassociate/static/media/pexels_fauxels_3183156.f908595cb2c4f9e4ed8b.jpg",
+    "static/media/smallbusiness.jpg": "/jeonassociate/static/media/smallbusiness.11875353a3039577c5b6.jpg",
     "static/media/rocket.png": "/jeonassociate/static/media/rocket.79b71139d2d4d7ea0551.png",
     "static/media/proto_image.jpg": "/jeonassociate/static/media/proto_image.421c54bc22d4c51bda40.jpg",
     "static/media/CareersImage.jpg": "/jeonassociate/static/media/CareersImage.f19041f00c1c95c771f1.jpg",
@@ -22,12 +25,12 @@
     "static/media/icons8_real_estate_500.png": "/jeonassociate/static/media/icons8_real_estate_500.45e92565295cd03ecfc1.png",
     "static/media/JeonAssociateLogo.png": "/jeonassociate/static/media/JeonAssociateLogo.b2c6b1eba9cff07f0eab.png",
     "index.html": "/jeonassociate/index.html",
-    "main.e98b18b7.css.map": "/jeonassociate/static/css/main.e98b18b7.css.map",
-    "main.bdbec474.js.map": "/jeonassociate/static/js/main.bdbec474.js.map",
+    "main.e5c694be.css.map": "/jeonassociate/static/css/main.e5c694be.css.map",
+    "main.8bb8738c.js.map": "/jeonassociate/static/js/main.8bb8738c.js.map",
     "453.671e4bbf.chunk.js.map": "/jeonassociate/static/js/453.671e4bbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e98b18b7.css",
-    "static/js/main.bdbec474.js"
+    "static/css/main.e5c694be.css",
+    "static/js/main.8bb8738c.js"
   ]
 }
