@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f7c5f282.css",
-    "main.js": "/static/js/main.2d177a26.js",
+    "main.css": "/static/css/main.075fe438.css",
+    "main.js": "/static/js/main.092b307a.js",
     "static/js/453.671e4bbf.chunk.js": "/static/js/453.671e4bbf.chunk.js",
     "static/media/realestate.jpg": "/static/media/realestate.c3ab41509b4e6327a97a.jpg",
     "static/media/hospital.jpg": "/static/media/hospital.aade1de5fbaaf63fd1f1.jpg",
@@ -24,12 +24,12 @@
     "static/media/icons8_real_estate_500.png": "/static/media/icons8_real_estate_500.45e92565295cd03ecfc1.png",
     "static/media/JeonAssociateLogo.png": "/static/media/JeonAssociateLogo.b2c6b1eba9cff07f0eab.png",
     "index.html": "/index.html",
-    "main.f7c5f282.css.map": "/static/css/main.f7c5f282.css.map",
-    "main.2d177a26.js.map": "/static/js/main.2d177a26.js.map",
+    "main.075fe438.css.map": "/static/css/main.075fe438.css.map",
+    "main.092b307a.js.map": "/static/js/main.092b307a.js.map",
     "453.671e4bbf.chunk.js.map": "/static/js/453.671e4bbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7c5f282.css",
-    "static/js/main.2d177a26.js"
+    "static/css/main.075fe438.css",
+    "static/js/main.092b307a.js"
   ]
 }
