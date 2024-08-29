@@ -1,3 +1,9 @@
+# Getting Started
+
+To begin working with this project, the following dependencies must be installed. Please follow the instructions provided below to ensure that your environment is correctly configured.
+# Dependency
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
