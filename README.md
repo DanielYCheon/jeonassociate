@@ -3,6 +3,8 @@
 To begin working with this project, the following dependencies must be installed. Please follow the instructions provided below to ensure that your environment is correctly configured.
 # Dependency
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+-------------------------------------------------
 
 # Getting Started with Create React App
 
