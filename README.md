@@ -1,11 +1,16 @@
+---
+### JEON & Associate, P.C.
+---
+
+## Overview
+
+This project is focused on developing the official website for JEON & Associates, P.C., a professional specializing in financial services. The website provides comprehensive information about the firm’s key offerings, including Audit, Assurance, Tax planning, and Advisory services. It caters to a wide range of clients, from individuals to enterprises, with the goal of enhancing client engagement and establishing a strong online presence.
 # Getting Started
 
 To begin working with this project, the following dependencies must be installed. Please follow the instructions provided below to ensure that your environment is correctly configured.
 # Dependency
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
--------------------------------------------------
-
+d
+--------d--
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
