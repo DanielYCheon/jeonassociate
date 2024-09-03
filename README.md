@@ -1,16 +1,45 @@
 ---
-### JEON & Associate, P.C.
+### <img src="src/Components/Asset/image0.png" width="46">  JEON & Associate, P.C. </img>
 ---
 
-## Overview
+## Project Overview
 
 This project is focused on developing the official website for JEON & Associates, P.C., a professional specializing in financial services. The website provides comprehensive information about the firm’s key offerings, including Audit, Assurance, Tax planning, and Advisory services. It caters to a wide range of clients, from individuals to enterprises, with the goal of enhancing client engagement and establishing a strong online presence.
-# Getting Started
+## Features 
+* Service Information: Detailed descriptions of the firm’s financial services, providing clarity on the scope and benefits of each.
+* User-Responsive Interface: A web design that adapts intuitively to user needs, providing a smooth and accessible experience across all devices and user types.
+* The website showcases the expertise of JEON & Associates, P.C., enhancing the firm’s reputation within the industry.
 
-To begin working with this project, the following dependencies must be installed. Please follow the instructions provided below to ensure that your environment is correctly configured.
-# Dependency
-d
---------d--
+## Prerequisites
+Before setting up this project, ensure your environment meets the following requirements:
+1. `Node.js` : Version 14.0 or higher.
+   
+2. `npm` : Version 6.0 or higher.
+   
+## Getting Start
+To initiate work on this project, please follow the instructions below:
+### 1. Clone the Repository
+Clone the repository to your local machine:
+
+ ```bash
+
+git clone https://github.com/DanielYCheon/jeonassociate.git
+
+```
+### 2. Navigate to the Project Directory
+Change into the project directory:
+
+```bash
+cd jeonassociate
+```
+### 3. Install Dependencies 
+Install the required dependencies by running the following command:
+```bach
+npm install
+```
+
+## Dependency
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
