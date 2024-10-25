@@ -1,23 +1,65 @@
 ---
-### <img src="src/Components/Asset/image0.png" width="46">  JEON & Associate, P.C. </img>
+
+<div align="center">
+<img src="src/Components/Asset/image0.png" width="46">  JEON & Associate, P.C. </img>
+</div>
+
 ---
 
-## Project Overview
 
-This project is focused on developing the official website for JEON & Associates, P.C., a professional specializing in financial services. The website provides comprehensive information about the firm’s key offerings, including Audit, Assurance, Tax planning, and Advisory services. It caters to a wide range of clients, from individuals to enterprises, with the goal of enhancing client engagement and establishing a strong online presence.
-## Features 
-* Service Information: Detailed descriptions of the firm’s financial services, providing clarity on the scope and benefits of each.
-* User-Responsive Interface: A web design that adapts intuitively to user needs, providing a smooth and accessible experience across all devices and user types.
-* The website showcases the expertise of JEON & Associates, P.C., enhancing the firm’s reputation within the industry.
+<br/><br/>
 
-## Prerequisites
-Before setting up this project, ensure your environment meets the following requirements:
-1. `Node.js` : Version 14.0 or higher.
+## :bookmark_tabs: About
+The project is focused on developing the official website for _JEON & Associates, P.C._, a professional specializing in financial services. The website provides comprehensive information about the firm’s key offerings, including Audit, Assurance, Tax planning, and Advisory services. It caters to a wide range of clients, from individuals to enterprises, with the goal of enhancing client engagement and establishing a strong online presence.
+<br/><br/>
+
+## :bulb: Features 
+
+* The website showcases the expertise of _JEON & Associates, P.C._, enhancing the firm’s reputation within the industry.
+  
+* **Responsive Design:** The website is fully responsive and works on all devices, from desktops, tablet and mobile.
+
+* **Email Service:** Integrated with EmailJS to handle contact form submissions and send emails directly from the website.
+
+* **Dynamic Content:** Uses React state and hooks to manage dynamic content and user interactions.
+<br/><br/>
+
+
+## :hammer_and_wrench:Built With
+<br/><br/>
+
+<div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code>
+</div>
+
+
+<br/><br/>
+
+
+
    
-2. `npm` : Version 6.0 or higher.
-   
-## Getting Start
+## :rocket: Getting Start
 To initiate work on this project, please follow the instructions below:
+
+### Prerequisites
+
+> Before initiating the project, ensure your environment satisfies the following requirements:
+
+1. **Node.js**: Install Node.js (version 14.x or higher) from [nodejs.org](https://nodejs.org/).
+   
+2. **npm**: Node Package Manager, which comes with Node.js. Verify installation by running `npm -v` in your terminal.
+   
+3. **React**: React is a JavaScript library for building user interfaces, primarily used to create dynamic, single-page applications.
+
+4. **Git**: Install Git from [git-scm.com](https://git-scm.com/).
+
+<br/>
+
 ### 1. Clone the Repository
 Clone the repository to your local machine:
 
@@ -34,79 +76,14 @@ cd jeonassociate
 ```
 ### 3. Install Dependencies 
 Install the required dependencies by running the following command:
-```bach
+```bash
 npm install
 ```
+### 4. Start the project
+```bash
+npm start
+```
 
-## Dependency
 
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
