@@ -1,11 +1,14 @@
 ---
 
 <div align="center">
-<img src="src/Components/Asset/image0.png" width="46">  JEON & Associate, P.C. </img>
+<img src="https://github.com/user-attachments/assets/1a72ec75-59bf-49ed-a2ca-c9bea9c8636d" width="500"></img>
 </div>
 
 ---
 
+<div align="center">
+	<a href="https://jeoncpas.com/">https://jeoncpas.com/</a>
+</div>
 
 <br/><br/>
 
