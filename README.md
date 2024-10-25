@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-	<a href="https://jeoncpas.com/">https://jeoncpas.com/</a>
+	:arrow_right: <a href="https://jeoncpas.com/">https://jeoncpas.com/</a>
 </div>
 
 <br/><br/>
@@ -86,7 +86,18 @@ npm install
 ```bash
 npm start
 ```
+<br/>
 
+## :octocat: License
 
+The source code in this repository is available under the MIT License, allowing you to freely use, modify, and distribute it in accordance with the license terms.
 
+<br/>
 
+## :question: FAQ
+
+> Feel free to reach out with any questions about the projects or other matters. You can contact me at:
+
+Email : daniel.cheon@outlook.com
+
+<br/><br/>
