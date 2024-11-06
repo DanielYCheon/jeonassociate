@@ -94,7 +94,7 @@ This project is licensed under the MIT License for all code and non-photo conten
 
 #### :no_entry: Photo Attribution
 
-_All photos within this project are owned by the project creator and are not covered under the MIT License. Unauthorized use or distribution of these images is prohibited without explicit permission from the owner._
+_All rights to the company logo or relates company, files used in this project are reserved by Jeon Associates. Unauthorized use, modification, or distribution of these assets is prohibited without express permission from Jeon Associates._
 
 <br/>
 
