@@ -90,7 +90,11 @@ npm start
 
 ## :octocat: License
 
-The source code in this repository is available under the MIT License, allowing you to freely use, modify, and distribute it in accordance with the license terms.
+This project is licensed under the MIT License for all code and non-photo content.
+
+#### :no_entry: Photo Attribution
+
+_All photos within this project are owned by the project creator and are not covered under the MIT License. Unauthorized use or distribution of these images is prohibited without explicit permission from the owner._
 
 <br/>
 
